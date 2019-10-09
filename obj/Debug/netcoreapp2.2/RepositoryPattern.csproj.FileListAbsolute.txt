@@ -1,0 +1,14 @@
+C:\Users\vjola\source\ui\RepositoryPattern\RepositoryPattern\bin\Debug\netcoreapp2.2\RepositoryPattern.deps.json
+C:\Users\vjola\source\ui\RepositoryPattern\RepositoryPattern\bin\Debug\netcoreapp2.2\RepositoryPattern.runtimeconfig.json
+C:\Users\vjola\source\ui\RepositoryPattern\RepositoryPattern\bin\Debug\netcoreapp2.2\RepositoryPattern.runtimeconfig.dev.json
+C:\Users\vjola\source\ui\RepositoryPattern\RepositoryPattern\bin\Debug\netcoreapp2.2\RepositoryPattern.dll
+C:\Users\vjola\source\ui\RepositoryPattern\RepositoryPattern\obj\Debug\netcoreapp2.2\RepositoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\vjola\source\ui\RepositoryPattern\RepositoryPattern\obj\Debug\netcoreapp2.2\RepositoryPattern.RazorAssemblyInfo.cache
+C:\Users\vjola\source\ui\RepositoryPattern\RepositoryPattern\obj\Debug\netcoreapp2.2\RepositoryPattern.RazorAssemblyInfo.cs
+C:\Users\vjola\source\ui\RepositoryPattern\RepositoryPattern\obj\Debug\netcoreapp2.2\RepositoryPattern.AssemblyInfoInputs.cache
+C:\Users\vjola\source\ui\RepositoryPattern\RepositoryPattern\obj\Debug\netcoreapp2.2\RepositoryPattern.AssemblyInfo.cs
+C:\Users\vjola\source\ui\RepositoryPattern\RepositoryPattern\obj\Debug\netcoreapp2.2\RepositoryPattern.RazorTargetAssemblyInfo.cache
+C:\Users\vjola\source\ui\RepositoryPattern\RepositoryPattern\bin\Debug\netcoreapp2.2\RepositoryPattern.pdb
+C:\Users\vjola\source\ui\RepositoryPattern\RepositoryPattern\obj\Debug\netcoreapp2.2\RepositoryPattern.dll
+C:\Users\vjola\source\ui\RepositoryPattern\RepositoryPattern\obj\Debug\netcoreapp2.2\RepositoryPattern.pdb
+C:\Users\vjola\source\ui\RepositoryPattern\RepositoryPattern\obj\Debug\netcoreapp2.2\RepositoryPattern.csprojAssemblyReference.cache
